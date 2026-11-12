@@ -25,9 +25,10 @@ public class ModCreativeModeTabs {
     public static final CreativeModeTab AMETHYST_WOOD_TAB = Registry.register(BuiltInRegistries.CREATIVE_MODE_TAB,
             Identifier.fromNamespaceAndPath(TutorialMod.MOD_ID, "amethyst_wood"), FabricCreativeModeTab.builder()
                     .icon(() -> new ItemStack(Modblocks.AMETHYST_PLANK))
-                    .title(Component.translatable("creativemodetab.tutorial-mod.myitem"))
+                    .title(Component.translatable("creativemodetab.tutorial-mod.blocks"))
                     .displayItems((parameters, output) -> {
                         output.accept(Modblocks.AMETHYST_PLANK);
+                        output.accept(Modblocks.AMETHYST_LOG);
                     })
                     .build());
 

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "tutorial-mod:block/amethyst_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "tutorial-mod:block/amethyst_log"
+    },
+    "axis=z": {
+      "model": "tutorial-mod:block/amethyst_log",
+      "x": 90
+    }
+  }
+}

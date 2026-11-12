@@ -1,6 +1,9 @@
 // 26.1.2	-999999999-01-01T00:00:00	Tutorial Mod/Model Definitions
+82ed2bfce92093a8e039f4495fdbdef04284e504 assets/tutorial-mod/blockstates/amethyst_log.json
 e10bf9f22f8fbdd603cf45cf28c40680e87d1592 assets/tutorial-mod/blockstates/amethyst_plank.json
+9b7950149d8c008f4f11f798b914acc8f38ecbae assets/tutorial-mod/items/amethyst_log.json
 d8487b3a86464d6702745edfc5da7eb439321f9f assets/tutorial-mod/items/amethyst_plank.json
 5015615ea50c44e128cdcdf385f22f3bca273061 assets/tutorial-mod/items/myitem.json
+c31e798a1bd35d548ae58b7bc74e21bcf54ebee0 assets/tutorial-mod/models/block/amethyst_log.json
 825ee4b2001e56d42292d8827018908c2997ad88 assets/tutorial-mod/models/block/amethyst_plank.json
 1f767246a85533feb0f39719d1e90e5bb4d63bd7 assets/tutorial-mod/models/item/myitem.json

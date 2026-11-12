@@ -17,6 +17,7 @@ public class ModModelProvider extends FabricModelProvider {
     @Override
     public void generateBlockStateModels(BlockModelGenerators blockModelGenerators) {
         blockModelGenerators.createTrivialCube(Modblocks.AMETHYST_PLANK);
+        blockModelGenerators.woodProvider(Modblocks.AMETHYST_LOG).log(Modblocks.AMETHYST_LOG);
     }
 
     @Override

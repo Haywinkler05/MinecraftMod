@@ -1,5 +1,7 @@
 {
   "item.tutorial-mod.myitem": "My Item",
   "block.tutorial-mod.amethyst_plank" : "amethyst plank",
-  "creativemodetab.tutorial-mod.myitem": "My Item Tutorial Items"
+  "creativemodetab.tutorial-mod.myitem": "My Item Tutorial Items",
+  "block.tutorial-mod.amethyst_log": "Amethyst Log",
+  "creativemodetab.tutorial-mod.blocks": "Amethyst Blocks"
 }
